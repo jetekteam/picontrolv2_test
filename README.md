@@ -1,9 +1,14 @@
-# picontrolv2_test
+# PiControl V2 - Test
 
-# To Install:
+## To Install
 
-wget https://github.com/jetechteam/picontrol/raw/master/picontrol-install.tgz
-tar -xzf picontrol-install.tgz
+ ```bash
+ sudo apt-get update
+ wget https://github.com/jetechteam/picontrol/raw/master/picontrol-install.tgz
+ tar -xzf picontrol-install.tgz
+ ```
 
-cd picontrol-install
-sudo sh ./install.sh
+ ```bash
+ cd picontrol-install
+ sudo sh ./install.sh
+ ``` 
