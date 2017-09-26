@@ -4,7 +4,7 @@
 
  ```bash
  sudo apt-get update
- wget https://github.com/jetechteam/picontrol/raw/master/picontrol-install.tgz
+ wget https://github.com/jetekteam/picontrolv2_test/raw/master/picontrol-install.tgz
  tar -xzf picontrol-install.tgz
  ```
 
