@@ -12,3 +12,7 @@
  cd picontrol-install
  sudo sh ./install.sh
  ``` 
+
+## Web Access
+
+http://ipaddress:8080
